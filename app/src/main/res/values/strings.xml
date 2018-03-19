@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListarPaises</string>
+    <string name="filtrar">Filtrar</string>
+
+
+    <string-array name="continentes">
+
+        <item>"ALL"</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Oceania</item>
+        <item>Europe</item>
+
+
+    </string-array>
+</resources>
